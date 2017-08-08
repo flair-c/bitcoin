@@ -1,11 +1,11 @@
-Bitcoin Core integration/staging tree
+Flair integration/staging tree
 =====================================
 
 [![Build Status](https://travis-ci.org/bitcoin/bitcoin.svg?branch=master)](https://travis-ci.org/bitcoin/bitcoin)
 
 [website]
 
-What is Bitcoin?
+What is Flair?
 ----------------
 
 Flair is an experimental digital currency that enables instant payments to
